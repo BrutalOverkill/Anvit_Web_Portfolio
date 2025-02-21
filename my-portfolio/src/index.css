@@ -15,5 +15,14 @@
   --color-lightGrey: #978580;
   --color-darkGrey: #3f4441;
   --font-body: "Josefin Sans", "sans-serif"; 
-  --font-special: "Nunito", "sans-serif"; 
+  --font-special: "Nunito", "sans-serif";
+  --shadow-cyanShadow: 0px 0px 20px 0px rgba(94, 206, 220, 0.5);
+  --breakpoint-sm: 350px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+}
+body{
+  @apply bg-darkBrown;
 }
