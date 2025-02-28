@@ -13,7 +13,7 @@ const ExperienceTopLeft = () => {
       </div>
       <p className="text-center">
       With 6 years of experience building dynamic,scalable and user-friendly
-       Web Application from front-end to back-end.
+      Web Application from front-end to back-end.
       </p>
       <ExperienceInfo number="$100k" text="Max Budget" />
     </div>

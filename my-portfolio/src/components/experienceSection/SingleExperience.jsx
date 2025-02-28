@@ -14,7 +14,7 @@ const SingleExperience = ({ experience }) => {
       <p className="text-orange">{experience.company}</p>
       <p className="text-lightGrey">{experience.date}</p>
       <ul className="list-disc mt-4 pl-4">
-        {(experience?.responsibilities || []).map((resp, index) => {
+        {experience.responsibilities.map((resp, index) => {
           return <li key={index}>{resp}</li>;
         })}
       </ul>
