@@ -1,9 +1,9 @@
-import React from 'react'
-
 const ExperienceTopMiddle = () => {
   return (
-    <div>ExperienceTopMiddle</div>
-  )
-}
+    <div className="lg:w-[35%] md:w-[50%] sm:w-[80%]">
+      <img src="../../public/images/experience-image (1).png" alt="my experience" />
+    </div>
+  );
+};
 
-export default ExperienceTopMiddle
+export default ExperienceTopMiddle;
