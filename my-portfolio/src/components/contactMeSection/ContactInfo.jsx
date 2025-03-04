@@ -1,9 +1,16 @@
-import React from 'react'
+import { HiOutlineMail } from "react-icons/hi";
+import { FiPhone } from "react-icons/fi";
+import { IoLocationOutline } from "react-icons/io5";
+import SingleInfo from "./SingleInfo";
 
 const ContactInfo = () => {
   return (
-    <div>ContactInfo</div>
-  )
-}
+    <div className="flex flex-col gap-4">
+      <SingleInfo text="anvit2501@gmail.com" Image={HiOutlineMail} />
+      <SingleInfo text="+91 9087860824" Image={FiPhone} />
+      <SingleInfo text="Delhi NCR, India" Image={IoLocationOutline} />
+    </div>
+  );
+};
 
-export default ContactInfo
+export default ContactInfo;
