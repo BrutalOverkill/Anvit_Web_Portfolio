@@ -16,13 +16,13 @@ const experiences = [
     ],
   },
   {
-    job: "Course Instructor",
-    company: "Nucamp",
-    date: "2023 - Present",
+    job: "Software Engineer",
+    company: "Novac Technology Solutions",
+    date: "July 2019 - September 2022",
     responsibilities: [
-      "Explaining and facilitating web development concepts.",
-      "Help students with their assignments and grade them weekly.",
-      "Provide support for students through their learning journey.",
+      "Working on the Features related to Life Insurance Product.",
+      "Migration of code from legacy to C# and Angular.",
+      "Provide support for bugs reported by the in house Users.",
     ],
   },
   {

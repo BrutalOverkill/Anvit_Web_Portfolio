@@ -4,13 +4,13 @@ const ExperienceTopRight = () => {
       <p className="text-lg text-center text-lightGrey">
         I specialize in{" "}
         <span className="font-bold text-white">
-          React and modern JavaScript
+          modern JavaScript, .NET Framework, SQL and Azure
         </span>
         , leveraging best practices to create scalable and maintainable
         solutions. <br />
-        My experience spans working on diverse projects, from small business
-        websites to{" "}
-        <span className="font-bold text-white">complex front-end systems</span>,
+        My experience spans working on diverse projects, from front end to back end of
+        {" "}
+        <span className="font-bold text-white">complex Web Application systems</span>,
         always aiming for clean code and exceptional user experiences.
       </p>
     </div>
