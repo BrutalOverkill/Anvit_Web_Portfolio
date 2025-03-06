@@ -10,6 +10,8 @@ import ProjectsMain from "./components/projectsSection/ProjectsMain";
 import SkillsMain from "./components/skillsSection/SkillsMain";
 import SubSkills from "./components/skillsSection/SubSkills";
 import SubHeroMain from "./components/subHeroSection/SubHeroMain";
+import { SpeedInsights } from '@vercel/speed-insights/react';
+
 
 function App() {
   return <main className="font-body text-white relative overflow-hidden">
@@ -24,6 +26,7 @@ function App() {
     <ProjectsMain />
     <ContactMeMain />
     <FooterMain />
+    <SpeedInsights />
   </main>
 }
 
