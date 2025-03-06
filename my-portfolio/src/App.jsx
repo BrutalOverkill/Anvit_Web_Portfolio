@@ -11,6 +11,7 @@ import SkillsMain from "./components/skillsSection/SkillsMain";
 import SubSkills from "./components/skillsSection/SubSkills";
 import SubHeroMain from "./components/subHeroSection/SubHeroMain";
 import { SpeedInsights } from '@vercel/speed-insights/react';
+import { Analytics } from '@vercel/analytics/react';
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
     <ContactMeMain />
     <FooterMain />
     <SpeedInsights />
+    <Analytics />
   </main>
 }
 
