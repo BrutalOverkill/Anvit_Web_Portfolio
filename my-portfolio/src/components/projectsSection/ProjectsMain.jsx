@@ -5,33 +5,33 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
-    year: "Mar2022",
+    name: "The Brogram",
+    year: "Ultimate place to track your workout and turn you into a GymBro",
     align: "right",
     image: "../../images/website-img-1.jpg",
     link: "#",
   },
   {
-    name: "Moola App",
-    year: "Sept2022",
+    name: "Anvit's Marketplace",
+    year: "A place to sell all the products that I envisgn in future",
     align: "left",
     image: "../../images/website-img-2.webp",
     link: "#",
   },
   {
-    name: "Tourzania",
-    year: "Jan2023",
+    name: "My Subscription tracker",
+    year: "Track all your subscription to know your yearly expenses on entertainment",
     align: "right",
     image: "../../images/website-img-3.jpg",
     link: "#",
   },
-  {
-    name: "Bank of Luck",
-    year: "May2024",
-    align: "left",
-    image: "../../images/website-img-4.jpg",
-    link: "#",
-  },
+  // {
+  //   name: "Bank of Luck",
+  //   year: "May2024",
+  //   align: "left",
+  //   image: "../../images/website-img-4.jpg",
+  //   link: "#",
+  // },
 ];
 
 const ProjectsMain = () => {
