@@ -7,7 +7,7 @@ const ExperienceTopLeft = () => {
         Since 2018
       </p>
       <div className="flex justify-center items-center gap-4">
-        <ExperienceInfo number="3" text="Years" />
+        <ExperienceInfo number="6" text="Years" />
         <p className="font-bold text-6xl text-lightBrown">-</p>
         <ExperienceInfo number="4" text="Real World Apllications" />
       </div>
@@ -15,7 +15,7 @@ const ExperienceTopLeft = () => {
       With 6 years of experience building dynamic,scalable and user-friendly
       Web Application from front-end to back-end.
       </p>
-      <ExperienceInfo number="$100k" text="Max Budget" />
+      {/* <ExperienceInfo number="$100k" text="Max Budget" /> */}
     </div>
   );
 };

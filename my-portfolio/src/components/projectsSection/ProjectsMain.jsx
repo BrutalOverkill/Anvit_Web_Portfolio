@@ -8,8 +8,8 @@ const projects = [
     name: "The Brogram",
     year: "Ultimate place to track your workout and turn you into a GymBro",
     align: "right",
-    image: "../../images/website-img-1.jpg",
-    link: "#",
+    image: "../../images/brogram.png",
+    link: "https://brogram-workouts.netlify.app",
   },
   {
     name: "Anvit's Marketplace",
@@ -54,6 +54,7 @@ const ProjectsMain = () => {
               year={project.year}
               align={project.align}
               image={project.image}
+              link={project.link}
             />
           );
         })}
