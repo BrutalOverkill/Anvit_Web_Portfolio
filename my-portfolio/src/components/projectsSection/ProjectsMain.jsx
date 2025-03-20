@@ -15,14 +15,14 @@ const projects = [
     name: "Anvit's Marketplace",
     year: "A place to sell all the products that I envisgn in future",
     align: "left",
-    image: "../../images/website-img-2.webp",
-    link: "#",
+    image: "../../images/smolstore.png",
+    link: "https://master.d2j81piylpyl5g.amplifyapp.com/",
   },
   {
     name: "My Subscription tracker",
     year: "Track all your subscription to know your yearly expenses on entertainment",
     align: "right",
-    image: "../../images/website-img-3.jpg",
+    image: "../../images/expenny.png",
     link: "#",
   },
   // {

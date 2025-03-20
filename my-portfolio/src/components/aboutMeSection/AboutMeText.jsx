@@ -13,7 +13,7 @@ const AboutMeText = () => {
         to provide a solid backend for the Application.Proven track record in 
         improving application architecture and performance, significantly enhancing 
         user engagement and operational efficiency. Proficient in leveraging cloud 
-        technologies, particularly Microsoft Azure, to ensure seamless deployment 
+        technologies, particularly Microsoft Azure and AWS, to ensure seamless deployment 
         and maintenance of applications. Passionate about automating workflows and 
         implementing microservices that drive innovation and productivity.
       </p>

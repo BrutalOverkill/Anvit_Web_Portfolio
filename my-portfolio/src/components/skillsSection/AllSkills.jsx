@@ -2,7 +2,6 @@ import React from 'react';
 import SingleSkill from "./SingleSkill";
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
-import { IoLogoJavascript } from "react-icons/io";
 import { FaReact } from "react-icons/fa";
 import { SiRedux } from "react-icons/si";
 import { SiNextdotjs } from "react-icons/si";
@@ -11,6 +10,7 @@ import { TbBrandCSharp } from "react-icons/tb";
 import { PiFileSqlFill } from "react-icons/pi";
 import { FaAngular } from "react-icons/fa";
 import { VscAzureDevops } from "react-icons/vsc";
+import { FaAws } from "react-icons/fa";
 
 
 const skills = [
@@ -21,10 +21,6 @@ const skills = [
     {
       skill: "CSS",
       icon: FaCss3Alt,
-    },
-    {
-      skill: "JavaScript",
-      icon: IoLogoJavascript,
     },
     {
       skill: "ReactJS",
@@ -57,6 +53,10 @@ const skills = [
     {
       skill: "Azure",
       icon: VscAzureDevops,
+    },
+    {
+      skill: "AWS",
+      icon: FaAws,
     },
   ];
 
