@@ -33,7 +33,7 @@ const experiences = [
       "Implementing reusable components.",
       "Working on various features for the Product using Angular,React and modern Javascript.",
       "Using .net Core to implement scalability and back end of the Apllication.",
-      "Deployment of the Application through Azure.",
+      "Deployment of the Application through Azure and AWS.",
       "Automating the data reading and mining through Robotic Automation Process(RPA).",
     ],
   },

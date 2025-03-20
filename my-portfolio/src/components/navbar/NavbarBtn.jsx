@@ -1,6 +1,6 @@
 import { Link } from "react-scroll";
 import { LuArrowDownRight } from "react-icons/lu";
-const cvFilePath = "../../resume/Anvit_Singh_-_Full_Stack_Developer.pdf"
+const cvFilePath = "../../resume/Anvit_Singh_-_Full_Stack_Developer (3).pdf"
 const NavbarBtn = () => {
   return (
     <a href={cvFilePath} download="Anvit_Singh_Resume.pdf">
