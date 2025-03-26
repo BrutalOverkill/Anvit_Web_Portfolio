@@ -23,7 +23,7 @@ const projects = [
     year: "Track all your subscription to know your yearly expenses on entertainment",
     align: "right",
     image: "../../images/expenny.png",
-    link: "#",
+    link: "https://spendorra.netlify.app",
   },
   // {
   //   name: "Bank of Luck",
